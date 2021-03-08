@@ -6,9 +6,9 @@ Elisabeth Wolfert elisabeth11kw@yahoo.com
 
 ## Predict the Growth of Wind and Solar energy production.
 
-•	Has wind and solar energy production increased in the past 10 years? 
-•	Which states renewable energy growth rates are increasing at a higher rate?
-•	What are common words used in articles from the https://www.greenpeace.org/ website?
+*	Has wind and solar energy production increased in the past 10 years? 
+* Which states renewable energy growth rates are increasing at a higher rate?
+*	What are common words used in articles from the https://www.greenpeace.org/ website?
 
 ## Data Science tasks
 
