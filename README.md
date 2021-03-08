@@ -30,34 +30,50 @@ The current data source that I have is more than 33k records containing data fro
 ## Source Data Files
 
 2.2	Source Data File	USPopulation.csv	Create tables for Wind Solar and US Population
-3.1	Create Clean Table	insert soldback solar data.txt	Create table from csv file SolarPotential.csv with solar potential count by state
-3.2	Source Data File	SolarPotential.csv	Create tables for Wind Solar and US Population
-3.3	Create Source Table 	SolarPotential Table.sql	Create tables for Wind Solar and US Population
-4.1	Create Source Table 	insert wind data .sql	Create table from csv file WindPotential.csv with wind potential count by state
-4.2	Source Data File	Wind potential source	Create Wind potential source
-4.3	Source Data File	WindPotential.csv	Create tables for Wind Solar and US Population
+
+4.1	Create Clean Table	insert soldback solar data.txt	Create table from csv file SolarPotential.csv with solar potential count by state
+
+6.2	Source Data File	SolarPotential.csv	Create tables for Wind Solar and US Population
+
+8.3	Create Source Table 	SolarPotential Table.sql	Create tables for Wind Solar and US Population
+
+10.1	Create Source Table 	insert wind data .sql	Create table from csv file WindPotential.csv with wind potential count by state
+
+12.2	Source Data File	Wind potential source	Create Wind potential source
+
+14.3	Source Data File	WindPotential.csv	Create tables for Wind Solar and US Population
 
 ## Cleaned Data
 
 4.4	Create Clean Table	WindPotential.sql	Create tables for Wind Solar and US Population
-5.1	Create Clean Table	create table summary.sql	Data Scripts With Summary Data for Reporting
-6.1	Create Clean Table	Compare Potential to Actual.sql	Create tables for Wind Solar and US Population
-7.1	Create Clean Table	Query File Wind Solar Data.sql	Renew Database table "Renew"."Util_Energy"
+
+6.1	Create Clean Table	create table summary.sql	Data Scripts With Summary Data for Reporting
+
+8.1	Create Clean Table	Compare Potential to Actual.sql	Create tables for Wind Solar and US Population
+
+10.1	Create Clean Table	Query File Wind Solar Data.sql	Renew Database table "Renew"."Util_Energy"
+
 
 ## Tableau Report Data
+
 9.1	Tableau Report Data	Presentation Data 	Tableau Report Story Wind and Solar
 
 ## Output Data
 
 10.1	Output Data File	Compare Actual to Potential.csv	Combined Potential Compared to Actual
-10.2	Output Data File	Compare Actual to Potential33.csv	Updated Data source files
-10.3	Output Data File	Wind Potential by State.csv	Wind potential by State
-11.1	Output Data File	WindAndSolar33.csv	Updated Data source files
+
+12.2	Output Data File	Compare Actual to Potential33.csv	Updated Data source files
+
+14.3	Output Data File	Wind Potential by State.csv	Wind potential by State
+
+16.1	Output Data File	WindAndSolar33.csv	Updated Data source files
 
 ## Python Script
+
 12.1	Python Script	Greenpeace_SpacyWordMap.py	Add files via upload
 
 ## R Markdown R Studio
 13.1	Rmarkdown Script	Solar and Wind by state.Rmd	R Markdown Scripts using R Studio
-14.1	Rmarkdown Script	timeserieswindsolar.Rmd	R Markdown Scripts using R Studio
+
+15.1	Rmarkdown Script	timeserieswindsolar.Rmd	R Markdown Scripts using R Studio
 
